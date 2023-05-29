@@ -1,5 +1,6 @@
 .backdrop{
-background-color: antiquewhite;
+background: antiquewhite;
+opacity: 0.7;
 position: fixed;
 top:0;
 bottom: 0;
